@@ -9,6 +9,7 @@ In this repository, you'll find a showcase of my projects. Here are some highlig
 
 ### Dino Game:
 To test my JavaScript skills, I decided to give a thrilling twist to the classic Dino game. I equipped the Dino with a powerful gun, adding an exciting layer of strategy and precision. This project pushed my understanding of JavaScript's interactivity and game mechanics, while injecting creativity into a beloved game. Experience the enhanced gameplay as the Dino fends off obstacles with firepower. Enjoy the excitement and innovation of this modified Dino game!
+Repo: https://github.com/mresnicoff/dinosaurio_chrome
 
 ### Memory game:
 To test my DOM manipulation skills, I transformed a single-player memory game into an engaging two-player experience. Through dynamic scoring and interactive elements, players can now compete head-to-head, flipping cards and matching pairs. Experience the thrill of multiplayer competition and put your memory skills to the test in this enhanced game!.
