@@ -15,6 +15,8 @@ Repo: https://github.com/mresnicoff/dinosaurio_chrome
 ### Memory game:
 To test my DOM manipulation skills, I transformed a single-player memory game into an engaging two-player experience. Through dynamic scoring and interactive elements, players can now compete head-to-head, flipping cards and matching pairs. Experience the thrill of multiplayer competition and put your memory skills to the test in this enhanced game!.
 
+repo:https://github.com/mresnicoff/memory
+
 ### The weather App:
 The weather app was one of my initial projects on React, created alongside a few friends from the SUP program at Soy Henry's bootcamp. My primary focus was implementing the feature that enables the app to display the weather information based on the user's current location. Additionally, I contributed to the app's styling to enhance its visual appeal.
 Feel free to explore the repositories, check out the source code, and provide any feedback or suggestions. Contributions and collaborations are always welcome!
