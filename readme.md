@@ -21,15 +21,18 @@ Feel free to explore the repositories, check out the source code, and provide an
 The Rick and Morty app served as our integration project during the Soy Henry bootcamp. I took a unique approach by utilizing a JSON file as a database, allowing for multi-user functionality in my version. I won a mention for this work at the bootcamp.
 
 ## Technical Skills
-Programming Languages: [List the programming languages you are proficient in]
-Frameworks and Libraries: [Mention relevant frameworks and libraries you have experience with]
-Tools and Technologies: [List any tools or technologies you frequently work with]
+Programming Languages: Javascript, Typescript  and Visual Basic 
+Frameworks and Libraries: React, Next and ASP.Net
+Tools and Technologies: Mongo PostgreSQl, Sequelize ORM, Prisma ORM, Node.js, Express.js, Ms Access MS SQL Server, CSS, HTML
 ## How to Reach Me
 I would love to connect with you and discuss any interesting ideas or projects. You can reach me via:
 
-Email: [Your Email Address]
-LinkedIn: [Your LinkedIn Profile URL]
-Twitter: [Your Twitter Handle]
+Email: mresnicoff@gmail.com
+
+LinkedIn:https://www.linkedin.com/in/martinresnicoff/
+
+Twitter: https://twitter.com/ResnicoffMartin
+
 Feel free to drop me a message or connect with me on any of the mentioned platforms. I'm always open to new opportunities, collaborations, or just a friendly chat!
 
 Thank you for visiting my GitHub profile, and I hope you find something interesting here. Happy coding!
