@@ -21,7 +21,6 @@ Repo:https://github.com/mresnicoff/memory
 The weather app was one of my initial projects on React, created alongside a few friends from the SUP program at Soy Henry's bootcamp. My primary focus was implementing the feature that enables the app to display the weather information based on the user's current location. Additionally, I contributed to the app's styling to enhance its visual appeal.
 
 Repo: https://github.com/mresnicoff/weather
-Feel free to explore the repositories, check out the source code, and provide any feedback or suggestions. Contributions and collaborations are always welcome!
 
 ### Rick & Morty APP
 The Rick and Morty app served as our integration project during the Soy Henry bootcamp. I took a unique approach by utilizing a JSON file as a database, allowing for multi-user functionality in my version. I won a mention for this work at the bootcamp.
@@ -40,6 +39,7 @@ Flight Deck was our team project at the Soy Henry Bootcamp. It is a flight logbo
 
 Repo: https://github.com/mresnicoff/FLIGHT-DECK
 
+Feel free to explore the repositories, check out the source code, and provide any feedback or suggestions. Contributions and collaborations are always welcome!
 
 ## Technical Skills
 Programming Languages: Javascript, Typescript  and Visual Basic 
