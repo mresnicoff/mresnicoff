@@ -1,4 +1,4 @@
-# Martín Resnicoff's GitHub Profil
+# Martín Resnicoff's GitHub Profile
 Welcome to my GitHub profile! Here you will find a collection of my projects, contributions, and experiments in the world of software development. I'm passionate about Javascript Node.js React Next Express.js Mongo and PostgreSQL, and I love to explore new technologies and collaborate with fellow developers.
 
 ## About Me
