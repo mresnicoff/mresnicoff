@@ -11,12 +11,15 @@ In this repository, you'll find a showcase of my projects. Here are some highlig
 A news portal built to explore and master Lexical, a JavaScript text-editing framework. The project focused on leveraging Lexical as the core engine for editing and formatting articles, enabling features like bold text, italics, and multimedia integration. Designed as a learning experience, the portal provides a practical platform for creating and publishing content while honing skills in advanced text editing.
 
 Repo front: https://github.com/mresnicoff/newsfront
+
 repo back: https://github.com/mresnicoff/newsbackprisma
+
 Demo: https://lasnoticias-mu.vercel.app/
 
 ### Jobs portal:
 Developed collaboratively with students from AEA mentorships, this job portal connects high school graduates with employment opportunities, empowering them to secure their first job and kickstart their careers.
 Repo front:https://github.com/mresnicoff/bolsa
+
 Repo Back: https://github.com/mresnicoff/bolsaback
 
 
