@@ -7,6 +7,13 @@ I am a FullStack Developer with a background in industrial engineering. I have a
 # Projects
 In this repository, you'll find a showcase of my projects. Here are some highlights:
 
+### School Support Institute Website:
+A modern school support institute website crafted with Next.js, delivering a seamless user experience for students and educators. The platform features robust integrations, including automated email notifications, Google Calendar synchronization for scheduling, and Mercado Pago payment processing via QR code preferences. Designed to streamline educational support services, this project is actively in development, with ongoing enhancements to elevate functionality and user engagement.
+
+Repo: https://github.com/mresnicoff/instituto
+
+
+
 ### News Portal
 A news portal built to explore and master Lexical, a JavaScript text-editing framework. The project focused on leveraging Lexical as the core engine for editing and formatting articles, enabling features like bold text, italics, and multimedia integration. Designed as a learning experience, the portal provides a practical platform for creating and publishing content while honing skills in advanced text editing.
 
