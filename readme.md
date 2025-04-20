@@ -12,7 +12,7 @@ A news portal built to explore and master Lexical, a JavaScript text-editing fra
 
 Repo front: https://github.com/mresnicoff/newsfront
 
-repo back: https://github.com/mresnicoff/newsbackprisma
+Repo back: https://github.com/mresnicoff/newsbackprisma
 
 Demo: https://lasnoticias-mu.vercel.app/
 
